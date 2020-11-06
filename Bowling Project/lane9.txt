@@ -1,0 +1,1 @@
+8 split 1 9 1 spare 7 2 10 strike 8 2 spare 6 split 2 7 3 spare 10 strike 10 strike 10 turkey 8 1

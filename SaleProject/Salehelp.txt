@@ -1,0 +1,30 @@
+111222333444555666777888
+1st ball
+choice = rand() % 24;
+value = urn(choice);
+swap value for back
+pop out back
+2nd ball
+choice = rand() % 23; using a vector you could use just vec.size()
+	choice = 8 for example
+value += urn(choice)
+	value would = 3
+swap value for back
+3rd ball
+choice = rand() % 22;
+value += urn(choice)
+
+
+
+
+
+#This would only be for array
+void swap(int& choice,int& last)
+{
+	int temp;
+	int = choice;
+	choice = last;
+	last = temp;
+}
+
+
